@@ -1,0 +1,13 @@
+
+body{
+    background-color: pink;
+    font-family:"Papyrus";
+}
+
+.main-title{
+    text-align: center;
+}
+
+.content{
+    margin: 12px;
+}
